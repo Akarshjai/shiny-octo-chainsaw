@@ -1,4 +1,4 @@
-# shiny-octo-chainsaw
+# introduction-to-github
 
 ## About this repository
 
